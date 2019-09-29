@@ -1,0 +1,17 @@
+.section-title {
+    color: blue;
+}
+
+.post {
+    display: flex;
+}
+
+.img-thumb {
+    box-shadow: 10px;
+    box-sizing: content-box;
+    border: 2px solid black
+}
+
+.content {
+    flex: 1;
+}
